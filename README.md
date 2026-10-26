@@ -1,5 +1,5 @@
 Full stack web developer in Switzerland. Eleven years of PHP,
-mostly on [Pimcore](https://github.com/pimcore/pimcore) and
+mostly on [OpenDXP](https://github.com/open-dxp/opendxp), [Pimcore](https://github.com/pimcore/pimcore) and
 [TYPO3](https://github.com/TYPO3/typo3). Currently at instride AG.
 
 I am as interested in what an application runs on as in the
